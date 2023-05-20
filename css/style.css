@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Lora&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+    font-family: "Roboto", serif;
+    font-size: 15px;
+    text-align: center;
+    text-justify: justify;
+    line-height: 30px;
+}
+
+h1, h2 {
+font-family: "Lora", serif;
+text-align: center;
+font-size: 30px;
+
+}
+
+h3 {
+    font-family: "Lora", serif;
+    text-align: left;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
